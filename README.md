@@ -22,3 +22,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+![image](https://user-images.githubusercontent.com/123011718/232669066-de88f6f8-9ebb-4b9a-aef1-9c3494a371ba.png)
+
+### Deployed App
+<a href=" https://eduardopinedah.github.io/Work-Day-Schedule/"><img src="https://img.shields.io/badge/- See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+
